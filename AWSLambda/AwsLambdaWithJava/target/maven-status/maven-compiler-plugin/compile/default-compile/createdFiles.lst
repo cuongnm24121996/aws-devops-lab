@@ -1,0 +1,6 @@
+com\amazonaws\lambda\dto\CallerContext.class
+com\amazonaws\lambda\dto\Request.class
+com\amazonaws\lambda\dto\CognitoCustomMessageEvent.class
+com\amazonaws\lambda\dto\Response.class
+com\amazonaws\lambda\dto\UserAttributes.class
+com\amazonaws\lambda\LambdaFunctionHandler.class

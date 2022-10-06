@@ -1,0 +1,17 @@
+amazon:
+  aws:
+    access-key: key
+    region: us-east-1
+    secret-key: ''
+  dynamodb:
+    endpoint: 'http://localhost:8000/'
+server:
+  port: 9500
+spring:
+  application:
+    name: springboot-aws-dynamodb
+
+logging:
+  level:
+    root: info
+    com.amazonaws: debug
